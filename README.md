@@ -1,6 +1,6 @@
 # Python - Redshift ETL
 
-<img src="workflow.png" alt="Workflow Diagram" width="900" height="300"/>
+<img src="workflow.png" alt="Workflow Diagram" width="900" height="350"/>
 
 This workflow is intended to provide a quick solution to performing data transformation in python and quickly uploading the transformed dataset into a Redshift database. I created it as the frequent need arose to upload data regularly to Redshift databases via either simple excel files, or via transformations of existing raw data in Redshift. This workflow can be modified to support other database types if possible. Some advantages of this workflow:
 
